@@ -1,2 +1,0 @@
-# CriptografiaAssimetrica
-Criptografia Assimetrica
